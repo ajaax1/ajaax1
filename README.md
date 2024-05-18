@@ -1,6 +1,7 @@
+<img align="right" alt="Coding" width="100%" src="https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif">
+
 # 💫 About Me:
 - 💼 No momento, estou trabalhando na **Centrion Web**<br>- 📚 Eu estou estudando **Vue.js e Laravel!**<br>- 🤔 Onde meus projetos estão? https://portif-lio-react-indol.vercel.app<br>- 🔍 Como me achar? **ruanhigor123@gmail.com**<br>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/219482/screenshots/14676444/media/28fa0b64b0454de0d0664e364e4f95fc.gif">
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ruan-higor-silva-100382222) 
